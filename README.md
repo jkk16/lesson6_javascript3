@@ -4,19 +4,17 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jared Knorr
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+This project utilized javascript and loop statements to create a photo gallery with several user options. 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jkk16.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to utilize event listeners to enable arrow usage to scroll through images. 
+2. I learned how to create a for loop to change the values of image elements 
+3. I learned how to use the AppendChild() method to add chile image elements to existing images. 
